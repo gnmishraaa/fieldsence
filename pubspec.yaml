@@ -45,7 +45,7 @@ dependencies:
   http: ^0.13.3
   uuid: ^3.0.4
   retrofit: ^2.0.0
-  logger: ^1.0.0
+  logger: ^1.0.9
   fluttertoast: ^8.0.7
 #  country_code_picker: ^1.6.2
   country_code_picker: ^2.0.2
@@ -70,7 +70,7 @@ dependencies:
   stripe_payment: ^1.1.4
   sqflite: ^2.0.0+3
   path: ^1.8.0
-  onesignal_flutter: ^3.1.0
+  onesignal_flutter: ^3.1.00
   flutter_credit_card: ^2.0.0
   #modal_progress_hud: ^0.1.3
   modal_progress_hud_nsn: ^0.1.0-nullsafety-1
